@@ -1,0 +1,15 @@
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\bin\Debug\net6.0\Persistente datenspreicherung Fink Christoph.exe
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\bin\Debug\net6.0\Persistente datenspreicherung Fink Christoph.deps.json
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\bin\Debug\net6.0\Persistente datenspreicherung Fink Christoph.runtimeconfig.json
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\bin\Debug\net6.0\Persistente datenspreicherung Fink Christoph.dll
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\bin\Debug\net6.0\Persistente datenspreicherung Fink Christoph.pdb
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.csproj.AssemblyReference.cache
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.GeneratedMSBuildEditorConfig.editorconfig
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.AssemblyInfoInputs.cache
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.AssemblyInfo.cs
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.csproj.CoreCompileInputs.cache
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.dll
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\refint\Persistente datenspreicherung Fink Christoph.dll
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.pdb
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\Persistente datenspreicherung Fink Christoph.genruntimeconfig.cache
+H:\Apr\4AHK\Persistente datenspreicherung Fink Christoph\obj\Debug\net6.0\ref\Persistente datenspreicherung Fink Christoph.dll
